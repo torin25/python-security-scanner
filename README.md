@@ -44,13 +44,18 @@ python-security-scanner/
 ```bash
 git clone https://github.com/<your-username>/python-security-scanner
 cd python-security-scanner
+```
 
 ### **2. Run the Scanner**
 ```bash
 python3 scanner.py
+```
 
 ### **3. Enter a target**
 ```bash
 python3 scanner.py
+```
 
- - Report files are automatically created in the project directory
+---
+
+Report files are automatically created in the project directory
